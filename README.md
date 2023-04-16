@@ -1,2 +1,2 @@
-# HSPT-solves
-UCF's High School programming Competition solves.
+# Algorithms
+Copy of some of the most popular programming algoritms.
