@@ -1,0 +1,15 @@
+Breadth First:
+1. Traverse a graph level by level
+2. Utilizes a queue
+3. Better if destination is on average close to start
+4. Siblings are visited before children
+
+
+Depth First:
+1. Traverse a graph branch by branch
+2. Utilizes a stack
+3. Better if destination is on average far from start
+4. Children are visited before Siblings
+5. More popular for games/puzzles.
+
+
